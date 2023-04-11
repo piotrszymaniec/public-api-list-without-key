@@ -23,7 +23,6 @@ For information on contributing to this project, please see the [contributing gu
 - [Currency Exchange](#currency-exchange)
 - [Data Validation](#data-validation)
 - [Development](#development)
-- [Disasters](#disasters)
 - [Documents & Productivity](#documents--productivity)
 - [Environment](#environment)
 - [Finance](#finance)
@@ -152,7 +151,6 @@ For information on contributing to this project, please see the [contributing gu
 |       [Coinlore](https://www.coinlore.com/cryptocurrency-data-api)       | Cryptocurrencies prices, volume and more                                              |    No    |  Yes  | Unknown |
 |                [Coinpaprika](https://api.coinpaprika.com)                | Cryptocurrencies prices, volume and more                                              |    No    |  Yes  |   Yes   |
 |               [CoinRanking](https://docs.coinranking.com/)               | Live Cryptocurrency data                                                              |    No    |  Yes  | Unknown |
-|             [Covalent](https://www.covalenthq.com/docs/api/)             | Multi-blockchain data aggregator                                                      |   Yes    |  Yes  | Unknown |
 |           [CryptoCompare](https://www.cryptocompare.com/api#)            | Cryptocurrencies Comparison                                                           |    No    |  Yes  | Unknown |
 |             [Cryptonator](https://www.cryptonator.com/api/)              | Cryptocurrencies Exchange Rates                                                       |    No    |  Yes  | Unknown |
 |                   [Gates.io](https://www.gate.io/api2)                   | Blockchain Assets Exchange                                                            |    No    |  Yes  | Unknown |
@@ -226,19 +224,10 @@ For information on contributing to this project, please see the [contributing gu
 |                                 [Unixtime](https://unixtime.co.za/)                                 | Convert Unixtime to DateTime and vice versa                                                         |        No        |  Yes  |   Yes   |
 |                         [XML to JSON](https://developers.wso2apistore.com/)                         | Integration developer utility APIs                                                                  |        No        |  Yes  | Unknown |
 |         [Image to Link](https://www.contentful.com/developers/docs/references/images-api/)          | Generate link from image(Integration developer utility APIs)                                        |        No        |  Yes  |   YES   |
-|                                  [IPFinder](https://ipfinder.io/)                                   | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API                                    |       Yes        |  Yes  |   Yes   |
 |                                 [Scraper.run](https://scraper.run/)                                 | Geolocation API,lookup DNS & whois record of a domain                                               |        No        |  Yes  |   Yes   |
 
 **[⬆ Back to Index](#index)**
 
-
-### Disasters
-
-|                         API                         | Description                       |   Auth   | HTTPS |  CORS   |
-| :-------------------------------------------------: | --------------------------------- | :------: | :---: | :-----: |
-|    [PredictHQ](https://developer.predicthq.com/)    | Events and natural disasters data |  oAuth   |  Yes  | Unknown |
-
-**[⬆ Back to Index](#index)**
 
 ### Documents & Productivity
 
