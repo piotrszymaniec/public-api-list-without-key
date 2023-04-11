@@ -1,4 +1,4 @@
-# Public API Lists - that does not need authentication
+# Excerpt from Public API Lists - APIs that don't need authentication
 
 [![Stars](https://img.shields.io/github/stars/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/stargazers)
 [![Fork](https://img.shields.io/github/forks/public-api-lists/public-api-lists?style=flat-square)](https://github.com/public-api-lists/public-api-lists/fork)
@@ -11,7 +11,6 @@ For information on contributing to this project, please see the [contributing gu
 
 ## Index
 
-- [Public API Lists](#public-api-lists)
 - [Index](#index)
 - [Animals](#animals)
 - [Anime](#anime)
